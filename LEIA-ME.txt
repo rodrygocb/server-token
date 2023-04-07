@@ -1,0 +1,12 @@
+//------------------------------------
+// DESENVOLVIDO POR RODRIGO COSTA
+//------------------------------------
+
+
+
+1. No arquivo banco.sql, contém o sql para criar o banco de dados que será utilizado
+2. Inicie pelo arquivo cadastrar, após criar o banco
+3. Em seguida,faça o login
+4. Após o login, será possível fazer as requisições o servidor
+
+
